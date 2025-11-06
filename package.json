@@ -8,7 +8,7 @@
     "serve": "http-server dist",
 
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "YOUR_NAME <yourmail@mail.com>",
